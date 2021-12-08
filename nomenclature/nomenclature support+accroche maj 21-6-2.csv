@@ -1,0 +1,15 @@
+n;désignation;angle1;angle2;perçages;longueur;QTY
+Ecrou;Ecrou M12 Brut;;;;;1
+Vis hexagonale;Vis hexagonale M12 x 30;;;;;1
+S1;Tube rond 25 x 2;;;;300;1
+S2;Tube carré 25 x 2;;;;300;1
+S3;Tube carré 25 x 2;;;;280;1
+S4;Tube carré 25 x 2;;;D : 13 mm;100;1
+S5;Tube carré 20 x 2;;;;400;1
+S6;Tube carré 25 x 2;;;;70;1
+S7;Tube rond 20 x 2;;;;60;1
+S8;Tube carré 20 x 2;;;;600;1
+S9;Tube carré 20 x 2;;;;190;2
+M1;fer plat 50 x 10;0;0;D : 26 mm;73;2
+M2;fer plat 50 x 10;0;0;D : 13 mm;66;1
+M3;fer plat 40 x 5;0;0;;50;1

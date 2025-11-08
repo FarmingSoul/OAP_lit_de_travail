@@ -4,7 +4,7 @@
  En attente de présentation :
  https://farmingsoul.org/index.php/outils/lit-de-travail-m
  
- ![lit_de_travail](https://github.com/FarmingSoul/OAP_lit_de_travail/blob/main/Photo/affiche-WB.png)
+ ![lit_de_travail](https://open.farmingsoul.org/Kevin_pour_FS/OAP_lit_de_travail/raw/branch/main/Photo/affiche-WB.png)
  
 - 8/12/21 ajout d'un repertoire Photo
 - 8/12/21 ajout d'un repertoire nomenclature
